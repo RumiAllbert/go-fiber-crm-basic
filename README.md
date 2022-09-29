@@ -15,3 +15,4 @@ You can use Postman to use API.
 # Requirements
 - Go 1.16+
 - SQLite 3+
+- Postman (optional) or any other API client
